@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title> INDEX </title>
+	</head>
+	<frameset rows=15%,* border=3 bordercolor="black">
+		<frame src="banner.html" name=banner noresize="noresize"/>
+	<frameset cols=10%,*>
+		<frame src="menu.html" name=menu  noresize="noresize"/>
+		<frame src="pagina-principal.html" name=conteudo  noresize="noresize"/>
+	</frameset>
+	</frameset>
+</html>

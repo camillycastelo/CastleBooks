@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<title> MENU </title>
+	</head>
+	<body bgcolor="whitesmoke">
+		<h1 align=center><font face="impact" font color="black"> LIVROS </font></h1>
+		<table>
+			<tr>
+				<td><a href="./pagina-principal.html" target=_conteudo><font size="3" color="black"> • Página principal </a></td>
+			</tr> 
+			<tr>
+				<td><a href="./mais-vendidos.html" target=_conteudo> <font size="3" color="black"> • Mais vendidos </a></td>
+			</tr>
+			<tr></tr>
+			<tr></tr>
+			<tr>
+				<td><strong> Gêneros </strong></td>
+			</tr>
+			<tr></tr>
+			<tr></tr>
+			<tr>
+				<td><a href="./drama.html" target=conteudo> <font size="3" color="black"> • Drama </a></td>
+			</tr>
+			<tr>
+				<td><a href="./distopia.html" target=conteudo> <font size="3" color="black"> • Distopia </a></td>
+			</tr>
+			<tr>
+				<td><a href="./fantasia.html" target=conteudo> <font size="3" color="black"> • Fantasia  </a></td>
+			</tr>
+			<tr>
+				<td><a href="./romance.html" target=conteudo> <font size="3" color="black"> • Romace </a></td>
+			</tr>
+			<tr>
+				<td><a href="./suspense.html" target=conteudo> <font size="3" color="black"> • Suspense </a></td>
+			</tr>
+		</table>
+	</body>
+</html>

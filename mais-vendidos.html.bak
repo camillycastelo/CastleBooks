@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title> mais vendidos </title>
+	</head>
+	<body background="./images/pagina-background.jpg">
+		<header>
+			<table align=center>
+			<h2 align=center><font color=black font face="times new roman" font size="6,5cm"> Mais vendidos </font></h2>
+			<br>
+			<table align=center>
+				<tr>
+					<td><p align=center><a href="./agatha.html"><img src="./images/agatha.jpg" width="180cm" height="220cm"></a></p></td>
+					<td><p align=left><a href="./agatha.html"><font size="3" color="black"> Coleção Agatha <br> Christie - Box 1 <br> (Capa dura) <br> R$59,90 </font></p></td>
+					<td><p align=center><a href="./orwell.html"><img src="./images/orwell-box.jpg" width="180cm" height="210cm"></a></p></td>
+					<td><p align=left><a href="./orwell.html"><font size="3" color="black"> As obras revolucionárias <br> de George Orwell <br> - Box <br> R$22,90 </font></p></td>
+					<td><p align=center><a href="./sangue-azul.html"><img src="./images/vermelho.jpeg" width="170cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./sangue-azul.html"><font size="3" color="black"> Vermelho, branco e <br> sangue azul - <br> Capa Comum <br> R$23,90 </font></p></td>
+				</tr>
+			</table>
+		</header>
+	</body>
+</html>

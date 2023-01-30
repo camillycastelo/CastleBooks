@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title> Romance </title>
+	</head>
+	<body background="./images/pagina-background.jpg">
+		<header>
+			<br>
+			<h2 align=center><font color=black font face="times new roman" font size="6,5cm"> Romance </font></h2>
+			<br>
+			<table align=center>
+				<tr>
+					<td><p align=center><a href="./tempo.html" target=_blank><img src="./images/tempo.jpg" width="170cm" height="220cm"></a></p></td>
+					<td><p align=left><a href="./tempo.html" target=_blank><font size="3" color="black"> Todo esse tempo <br> - Capa comum <br> R$28,10 </font></p></td>
+					<td><p align=center><a href="./sangue-azul.html"><img src="./images/vermelho.jpeg" width="170cm" height="220cm"></a></p></td>
+					<td><p align=left><a href="./sangue-azul.html"><font size="3" color="black"> Vermelho, branco e <br> sangue azul - <br> Capa Comum <br> R$23,90 </font></p></td>
+				</tr>
+			</table>
+	</body>
+</html>

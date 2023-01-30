@@ -1,0 +1,41 @@
+<html>
+	<body background="./images/pagina-background.jpg">
+		<header>
+			<h1 align=center><font color=black font face="times new roman" font size="6,5cm"> Escolha seu próximo livro </h1>
+		</header>
+		<br>
+		<table align=center>
+			<tr>
+				<td><p align=center><a href="./agatha.html"><img src="./images/agatha.jpg" width="180cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./agatha.html"><font size="3" color="black"> Coleção Agatha <br> Christie - Box 1 <br> (Capa dura) <br> R$59,90 </font></p></td>
+				<td><p align=center><a href="./codigo-da-vincii.html"><img src="./images/vinci.jpg" width="170cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./codigo-da-vincii.html"><font size="3" color="black"> O código da Vinci <br> - Edição econômica <br> R$20,90 </font></p></td>
+				<td><p align=center><a href="./tempo.html"><img src="./images/tempo.jpg" width="170cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./tempo.html"><font size="3" color="black"> Todo esse tempo <br> - Capa comum <br> R$28,10 </font></p></td>
+			</tr>
+			<tr><height="10cm"></height></tr>
+			<tr>
+				<td><p align=center><a href="./collen-hoover.html"> <img src="./images/collen-box.jpg" width="170cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./collen-hoover.html"><font size="3" color="black"> Collen Hoover <br> - Box <br> R$60,00 </font></p></td>
+				<td><p align=center><a href="./conto-da-aia.html"> <img src="./images/aia.jpg" width="170cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./conto-da-aia.html"><font size="3" color="black"> O conto da aia <br> - Capa comum <br> R$23,90 </font></p></td>
+				<td><p align=center><a href="./harry-potter.html"><img src="./images/harry.jpg" width="180cm" height="200cm"></a></p></td>
+				<td><p align=left><a href="./harry-potter.html"><font size="3" color="black"> Harry Potter <br> - Box <br> R$189,90 </font></p></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p align=center><a href="./orwell.html"><img src="./images/orwell-box.jpg" width="180cm" height="210cm"></a></p></td>
+				<td><p align=left><a href="./orwell.html"><font size="3" color="black"> As obras revolucionárias <br> de George Orwell <br> - Box <br> R$22,90 </font></p></td>
+				<td><p align=center><a href="./sangue-azul.html"><img src="./images/vermelho.jpeg" width="170cm" height="220cm"></a></p></td>
+				<td><p align=left><a href="./sangue-azul.html"><font size="3" color="black"> Vermelho, branco e <br> sangue azul - <br> Capa Comum <br> R$23,90 </font></p></td>
+			</tr>
+		</table>
+	</body>
+	<footer>
+		<div style="margin-top: 10px">
+			<p align=center><font color=black font size=4 font face="times new roman"><strong> CONTATO VIA INSTAGRAM: @_CastleBooks__ </strong></p>
+		</div>
+	</footer>
+</html>
+			
+			 

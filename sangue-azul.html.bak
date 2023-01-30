@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title> Vermelho, Branco e Sangue Azul </title>
+	</head>
+	<body background="./images/vermelho-background.png">
+		<header>
+			<table>
+				<tr>
+					<td align=center><font color=#2aa8db font size="10cm" font face="fantasy"> Vermelho, branco e sangue azul - Capa Comum </font></td>
+				</tr>
+			</table>
+		</header>
+		<table>
+			<tr>
+				<td><img src="./images/vermelho.jpeg" width="380cm" height="470cm"></td>
+				<td><font face="Andale Mono"><b> SINOPSE: </b></font></p>
+				<font color=black font size="4cm" font face="Andale Mono"> 
+				"O que pode acontecer quando o filho da presidenta dos Estados Unidos se apaixona pelo príncipe da Inglaterra?"	<br>
+				<p></p>
+				Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia  <br>
+				norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e  <br>
+				conquistar uma carreira na política, como tanto deseja. Mas quando sua família é convidada para o casamento real  <br>
+				do príncipe britânico Philip, Alex tem que encarar o seu primeiro desafio diplomático: lidar com Henry, irmão  <br>
+				mais novo de Philip, o príncipe mais adorado do mundo, com quem ele é constantemente comparado ― e que ele não suporta.  <br>
+				O encontro entre os dois sai pior do que o esperado, e no dia seguinte todos os jornais do mundo estampam fotos  <br>
+				de Alex e Henry caídos em cima do bolo real, insinuando uma briga séria entre os dois. Para evitar um desastre  <br>
+				diplomático, eles passam um fim de semana fingindo ser melhores amigos e não demora para que essa relação evolua  <br>
+				para algo que nenhum dos dois poderia imaginar ― e que não tem nenhuma chance de dar certo. Ou tem?</font></td>
+			</tr>
+			<tr>
+				<td><font color=black font size="20cm" font face="fantasy"><b> R$23,90 </b></font></td>
+			</tr>
+			</table>
+			<footer>
+				<a href="https://www.amazon.com.br/Vermelho-branco-sangue-Casey-McQuiston/dp/8555340942/ref=sr_1_1_sspa?crid=2XN1PEM0YZ253&keywords=vermelho+branco+e+sangue+azul&qid=1648144946&s=books&sprefix=vermelho%2Cstripbooks%2C322&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzVjhNMUVHM1RMWjNRJmVuY3J5cHRlZElkPUEwODQxMTA4MlQ1OFJGWlFXRk9MViZlbmNyeXB0ZWRBZElkPUEwMjAzNzQ2MzdMT08zTTlXOENWOCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=" target=_blank><img src="./images/button-comprar.png" width="200cm" height="45cm"></a>
+				<img src="./images/button-carrinho.png" width="50cm" height="50cm">
+			</footer>
+		</table>
+	</body>
+
+
+
+
+</html>
